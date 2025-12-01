@@ -13,3 +13,5 @@ require (
 	gitlab.com/rye_tawny/security v0.0.1 // indirect
 	golang.org/x/sys v0.38.0 // indirect
 )
+
+retract v0.0.1

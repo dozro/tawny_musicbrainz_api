@@ -10,8 +10,8 @@ github.com/sirupsen/logrus v1.9.3/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVs
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-gitlab.com/rye_tawny/api_commons v0.0.1 h1:8BXE3dGwkGVjE2VybyEtfyVpoMXXDcA1BopULdP726I=
-gitlab.com/rye_tawny/api_commons v0.0.1/go.mod h1:puXXCJ7SlKqP7+F/kTSI80kapx4591jliOW2h3+dCeQ=
+gitlab.com/rye_tawny/api_commons v0.0.3 h1:XK663gC6ytqYej2OtwTxn4iSzQ/sjHXe2EIqRNOc+2g=
+gitlab.com/rye_tawny/api_commons v0.0.3/go.mod h1:puXXCJ7SlKqP7+F/kTSI80kapx4591jliOW2h3+dCeQ=
 gitlab.com/rye_tawny/musicbrainz/types v0.0.2 h1:+zsDUXm7/9vNYIfVTCAD8mObEvK+0Le7DpKalomZiVQ=
 gitlab.com/rye_tawny/musicbrainz/types v0.0.2/go.mod h1:OVIjRlOEimDABE6D2T4jffNGdqW6004elazdhhjg2Lw=
 gitlab.com/rye_tawny/security v0.0.1 h1:Uu+ehRVX9EGjJD+o+3dQUDhOyq2UxgTPQNHhGDbH7kI=

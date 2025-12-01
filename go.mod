@@ -3,7 +3,6 @@ module gitlab.com/rye_tawny/musicbrainz/api
 go 1.25
 
 require (
-	github.com/dozro/tawny v0.0.3
 	gitlab.com/rye_tawny/api_commons v0.0.1
 	gitlab.com/rye_tawny/musicbrainz/types v0.0.2
 )
